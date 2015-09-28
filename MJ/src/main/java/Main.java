@@ -18,7 +18,7 @@ public class Main {
 		 * listaPessoa.sort(Comparator.comparing(Pessoa::getNome));
 		 * listaPessoa.forEach(System.out::println);
 		 */
-		
+		//Teste commit
 		NumberFormat fr = new DecimalFormat("###.##########");
 		fr.setMaximumFractionDigits(10);
 		fr.setMinimumFractionDigits(2);
